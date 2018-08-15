@@ -1,7 +1,7 @@
 # simulate_key
 
 
-##使用方法：
+## 使用方法：
      simulate_key <event> <key> <value>
      event: /dev/input/eventX
      key: 0-9 (KEY_0 - KEY_9)
